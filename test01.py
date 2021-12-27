@@ -1,5 +1,5 @@
 # print message
-print ("my third program")
+print ("my main program")
 
 #my variables
 a=4
