@@ -1,6 +1,6 @@
 # print message
 
-print ("my test program.")
+print ("Programmer B did this")
 
 
 #my variables
